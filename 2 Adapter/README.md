@@ -7,7 +7,7 @@ Scenario One:
 
 - for example, if the Client is already used to a particular interface, we can continue using the same interface that the client understands to interface with other providers using various adaptors
 
-![Adaptor Pattern](adaptorpattern.png)
+![Adaptor Pattern](assets/adaptorpattern.png)
 
-Summary
+#### Summary
 The Adapter Pattern is an often-used pattern in object-oriented programming languages. Similar to adapters in the physical world, you implement a class that bridges the gap between an expected interface and an existing class. That enables you to reuse an existing class that doesn’t implement a required interface and to use the functionality of multiple classes, that would otherwise be incompatible.
