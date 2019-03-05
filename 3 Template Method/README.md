@@ -6,7 +6,7 @@
 
 - Template Method fits in the above named scenario very well since we can provide a general workflow with invariant parts but leave placeholders for the different providers we need to implement.
 
-![Template Method](https://en.wikipedia.org/wiki/Template_method_pattern#/media/File:Template_Method_UML.svg)
+![Template Method](assets/templatemethod.png)
 
 Summary:
 The template method is used in frameworks, where each implements the invariant parts of a domain's architecture, leaving "placeholders" for customization options.
