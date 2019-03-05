@@ -1,4 +1,4 @@
-Scenario One:
+### Strategy Pattern:
 - Assume we need to log some information. There are multiple ways we could do this LogToFile, LogToDatabase, LogToXWebService.
 
 - The Strategy pattern allows us to polymorphically use any of the different strategies at runtime depending on the use case without creating complicated if statements and thereby making our system easily extensible

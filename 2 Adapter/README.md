@@ -1,4 +1,5 @@
-Scenario One:
+### Adaptor Design Pattern:
+
 - Assume we have a Client class consuming a LocalFileSystem API/Class which implements a LocalFileSystemInterface. Later we want to extend the functionality of the Client by using different kinds of filesystems, that is, RemoteFileSystem, AWSFileSystem, GoogleCloudFileSystem etc.
 
 - Each of the additional classes each implement their own types of interface
