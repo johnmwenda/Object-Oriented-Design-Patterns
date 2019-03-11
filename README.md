@@ -9,7 +9,7 @@ This are design patterns which help us change the behavior of a project without 
 #### Another Patterns
 
 The patterns illustrated include:
-1. Singleton Pattern
+1. Strategy Pattern
 2. Adapter Desing Pattern
 
 Credits:
