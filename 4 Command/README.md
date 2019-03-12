@@ -7,7 +7,7 @@ The Command pattern allows a request/action to exist as an object which you can 
 3. Commands - objects that represent an action/request
 4. Client - consumes the Commands, and determines when to use each command
 
-
+![Command Pattern](assets/CommandPattern.png)
 
 #### Benefits
 - Allows you to set aside a list of commands for later use
