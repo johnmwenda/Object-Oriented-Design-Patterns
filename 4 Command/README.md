@@ -1,9 +1,18 @@
 ### Command Pattern [Behavioral Pattern]:
 
 #### Description
-The Command pattern allows a request/action to exist as an object which you can later retrieve and do operations on them
+The Command pattern allows a request/action to exist as an object which you can later retrieve and do operations on them. Normally the requests/actions are stored as a list of codes which the client can execute at a later time or many times. Command pattern can be used very well with systems that require undo commands. The Command Pattern involves the following components
+1. Invoker - stores the collection of commands and determines which Command to execute
+2. Receivers - this objects actually implement the Commands
+3. Commands - objects that represent an action/request
+
+#### Benefits
+- Allows you to set aside a list of commands for later use
+- A class is a great place to store procedures you want to be executed
+- You can store multiple commands in a class to use over and over
+- You can implement undo procedures for past commands
 
 #### Scenario
--
+- Assume we are implementing a simple GUI
 
 ![Strategy Pattern](assets/strategy.png)
