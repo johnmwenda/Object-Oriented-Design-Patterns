@@ -13,6 +13,4 @@ The Command pattern allows a request/action to exist as an object which you can 
 - You can implement undo procedures for past commands
 
 #### Scenario
-- Assume we are implementing a simple GUI
-
-![Strategy Pattern](assets/strategy.png)
+- Assume we are implementing a simple GUI. Our GUI will have 4 menus. File, Edit, View and Help
