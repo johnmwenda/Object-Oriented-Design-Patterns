@@ -5,6 +5,7 @@ The Command pattern allows a request/action to exist as an object which you can 
 1. Invoker - stores the collection of commands and determines which Command to execute
 2. Receivers - this objects actually implement the Commands
 3. Commands - objects that represent an action/request
+4. Client - consumes the Commands, and determines when to use each command
 
 #### Benefits
 - Allows you to set aside a list of commands for later use
@@ -14,3 +15,6 @@ The Command pattern allows a request/action to exist as an object which you can 
 
 #### Scenario
 - Assume we are implementing a simple GUI. Our GUI will have 4 menus. File, Edit, View and Help
+- Each of the menu options will be a Command object
+- Our Receiver object which will actually perform the Commands will be a dummy UICode objects
+- Our Invoker will be a mouseButton object
