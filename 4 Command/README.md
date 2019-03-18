@@ -21,3 +21,6 @@ The Command pattern allows a request/action to exist as an object which you can 
 - Our Receiver object (which will actually perform the Commands) will be UICode class
 - Our Invoker will be a mouseButton object
 - The Client will be the orchestrator calling different commands at different times
+
+#### Notes
+Basically we are hiding the Receiver and its implementation details and looking at our program from a Command point of view, we are only 'interested' in passing different Commands at different times. The Client is coupled only to Command and Invoker
