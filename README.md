@@ -6,7 +6,11 @@ The patterns listed in this project fall under the following categories:
 #### Behavioral Patterns
 This are design patterns which help us change the behavior of a project without altering the main structure of the current project while preserving the original architecture of the project
 
-#### Another Patterns
+#### Structural Patterns
+These design patterns are about organizing different classes and objects to form larger structures and provide new functionality.
+
+#### Structural Patterns
+These design patterns are all about class instantiation or object creation.
 
 The patterns illustrated include:
 1. Strategy Pattern
