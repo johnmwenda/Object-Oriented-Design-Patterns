@@ -1,4 +1,6 @@
-# Object-Oriented-Design-Patterns
+# Object-Oriented-Design-Patterns (Personal Notes)
+Disclaimer: The notes do not explain the concepts at depth at all. They are just personal notes
+
 Project in Python to illustrate various OOP design patterns
 
 The patterns listed in this project fall under the following categories:
