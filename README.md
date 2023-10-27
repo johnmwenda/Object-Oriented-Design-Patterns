@@ -11,7 +11,7 @@ This are design patterns which help us change the behavior of a project without 
 #### Structural Patterns
 These design patterns are about organizing different classes and objects to form larger structures and provide new functionality.
 
-#### Structural Patterns
+#### Creational Patterns
 These design patterns are all about class instantiation or object creation.
 
 The patterns illustrated include:
