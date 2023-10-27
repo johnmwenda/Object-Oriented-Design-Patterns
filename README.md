@@ -22,5 +22,5 @@ The patterns illustrated include:
 5. State pattern
 
 Credits:
-Jeffrey Way - https://laracasts.com/series/design-patterns-in-php
-Derek Banas - https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07
+- Jeffrey Way - https://laracasts.com/series/design-patterns-in-php
+- Derek Banas - https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07
